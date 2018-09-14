@@ -1,10 +1,10 @@
-#Groceries Project
+# Groceries Project
 
 This project consists of organizing three different objects all into one box: apples, oranges and chocolate boxes.
 
 ---
 
-#To do list
+# To do list
 - [] Calculating the dimensions, weight, volume, and size of each item
 - [] Getting the items into the package
 - [] Getting the items into the warehouse
