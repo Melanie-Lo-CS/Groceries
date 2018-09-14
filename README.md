@@ -10,6 +10,3 @@ This project consists of organizing three different objects all into one box: ap
 - [] Getting the items into the warehouse
 - [] Getting the items into the storage
 - [] Getting the items taken out of the package and requested
-
-
->>>>>>> 20c464dc6eb655e104ae91d7b7b3bb784672a04c
