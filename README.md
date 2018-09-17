@@ -5,7 +5,14 @@ This project consists of organizing three different objects all into one box: ap
 ---
 
 # To do list
-- [] Calculating the dimensions, weight, volume, and size of each item
+- [] Calculating the:
+     - []Shape
+     - []Dimensions
+        - []Width
+        - []Length
+        - []Height
+        - []Diameter
+- []Carrying Capacity  
 - [] Coding all possible algorithms
 - [] Getting the items into the package
 - [] Getting the items into the warehouse
