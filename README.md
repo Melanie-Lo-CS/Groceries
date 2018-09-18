@@ -23,4 +23,7 @@ This project consists of organizing three different objects all into one box: ap
 - [] calculating costs of each item
 - [] How are the items getting into all locations listed? (warehouse, storage, etc.
 - [] will there be tags and barcodes?
-- [] Complete all tasks
+- [] How will we know if there isn't enough items. 
+- [] what is the max in buying each item
+- [] how will feedback be sent to the storage, warehouse, etc.
+
